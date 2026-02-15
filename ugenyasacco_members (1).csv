@@ -1,0 +1,101 @@
+MemberID,Gender,Age,Ward,MonthlyContribution,LoanAmount,LoanBalance,LoanStatus,DefaultRiskScore,MemberTenureYears
+M001,Male,34,East Ugenya,3000,50000,35000,Active,0.25,4
+M002,Female,29,West Ugenya,2000,30000,12000,Active,0.18,2
+M003,Male,41,North Ugenya,5000,100000,80000,Delinquent,0.62,7
+M004,Female,36,Ukwala,3500,60000,45000,Active,0.31,5
+M005,Male,52,East Ugenya,4000,80000,0,Completed,0.05,10
+M006,Female,27,West Ugenya,1500,20000,18000,Active,0.40,1
+M007,Male,31,North Ugenya,2500,40000,22000,Active,0.28,3
+M008,Female,45,Ukwala,4500,90000,65000,Delinquent,0.58,8
+M009,Male,38,East Ugenya,3000,50000,15000,Active,0.22,6
+M010,Female,33,West Ugenya,2800,45000,0,Completed,0.08,4
+M011,Male,26,North Ugenya,1800,25000,21000,Active,0.42,1
+M012,Female,40,Ukwala,4200,85000,50000,Active,0.33,6
+M013,Male,48,East Ugenya,5000,100000,70000,Delinquent,0.60,9
+M014,Female,35,West Ugenya,3000,50000,30000,Active,0.26,5
+M015,Male,29,North Ugenya,2200,30000,12000,Active,0.19,2
+M016,Female,50,Ukwala,4500,90000,0,Completed,0.06,11
+M017,Male,43,East Ugenya,3800,70000,48000,Active,0.34,7
+M018,Female,32,West Ugenya,2600,40000,24000,Active,0.27,4
+M019,Male,37,North Ugenya,3000,50000,35000,Active,0.29,5
+M020,Female,28,Ukwala,2000,25000,20000,Active,0.41,2
+M021,Male,55,East Ugenya,6000,120000,0,Completed,0.04,12
+M022,Female,34,West Ugenya,2800,45000,30000,Active,0.30,5
+M023,Male,39,North Ugenya,3500,60000,40000,Active,0.32,6
+M024,Female,46,Ukwala,4800,95000,70000,Delinquent,0.59,8
+M025,Male,27,East Ugenya,1800,20000,16000,Active,0.38,1
+M026,Female,31,West Ugenya,2400,35000,22000,Active,0.25,3
+M027,Male,44,North Ugenya,4000,75000,55000,Active,0.36,7
+M028,Female,36,Ukwala,3200,55000,30000,Active,0.28,5
+M029,Male,49,East Ugenya,4500,90000,60000,Delinquent,0.57,9
+M030,Female,41,West Ugenya,3500,60000,0,Completed,0.07,6
+M031,Male,33,North Ugenya,2800,45000,30000,Active,0.29,4
+M032,Female,26,Ukwala,1600,20000,18000,Active,0.44,1
+M033,Male,38,East Ugenya,3200,55000,35000,Active,0.31,6
+M034,Female,47,West Ugenya,4200,80000,60000,Delinquent,0.56,8
+M035,Male,52,North Ugenya,5000,100000,0,Completed,0.05,11
+M036,Female,35,Ukwala,3000,50000,28000,Active,0.27,5
+M037,Male,29,East Ugenya,2200,30000,20000,Active,0.35,2
+M038,Female,43,West Ugenya,3800,70000,45000,Active,0.34,7
+M039,Male,46,North Ugenya,4500,90000,65000,Delinquent,0.61,9
+M040,Female,31,Ukwala,2500,35000,20000,Active,0.26,3
+M041,Male,54,East Ugenya,5500,110000,0,Completed,0.03,12
+M042,Female,37,West Ugenya,3000,50000,35000,Active,0.30,6
+M043,Male,34,North Ugenya,2800,45000,25000,Active,0.28,4
+M044,Female,48,Ukwala,4700,90000,68000,Delinquent,0.60,9
+M045,Male,26,East Ugenya,1700,20000,18000,Active,0.43,1
+M046,Female,39,West Ugenya,3400,60000,42000,Active,0.33,6
+M047,Male,42,North Ugenya,3900,75000,50000,Active,0.35,7
+M048,Female,28,Ukwala,2000,30000,25000,Active,0.39,2
+M049,Male,50,East Ugenya,4800,95000,0,Completed,0.06,10
+M050,Female,35,West Ugenya,3000,50000,32000,Active,0.29,5
+M051,Male,44,North Ugenya,4200,80000,60000,Delinquent,0.58,8
+M052,Female,32,Ukwala,2600,40000,26000,Active,0.27,4
+M053,Male,36,East Ugenya,3000,50000,34000,Active,0.30,5
+M054,Female,41,West Ugenya,3600,65000,45000,Active,0.34,7
+M055,Male,29,North Ugenya,2300,30000,22000,Active,0.37,2
+M056,Female,47,Ukwala,4500,90000,70000,Delinquent,0.59,9
+M057,Male,53,East Ugenya,5200,105000,0,Completed,0.04,11
+M058,Female,34,West Ugenya,2800,45000,30000,Active,0.28,4
+M059,Male,38,North Ugenya,3200,55000,38000,Active,0.31,6
+M060,Female,27,Ukwala,1800,25000,23000,Active,0.42,1
+M061,Male,45,East Ugenya,4000,80000,60000,Delinquent,0.57,8
+M062,Female,36,West Ugenya,3100,50000,32000,Active,0.29,5
+M063,Male,31,North Ugenya,2600,40000,28000,Active,0.33,3
+M064,Female,49,Ukwala,4800,95000,0,Completed,0.06,10
+M065,Male,28,East Ugenya,2000,25000,20000,Active,0.40,2
+M066,Female,42,West Ugenya,3800,70000,50000,Active,0.35,7
+M067,Male,35,North Ugenya,3000,50000,33000,Active,0.29,5
+M068,Female,46,Ukwala,4600,90000,68000,Delinquent,0.60,9
+M069,Male,51,East Ugenya,5000,100000,0,Completed,0.05,11
+M070,Female,33,West Ugenya,2700,45000,30000,Active,0.28,4
+M071,Male,39,North Ugenya,3400,60000,42000,Active,0.32,6
+M072,Female,26,Ukwala,1600,20000,18000,Active,0.45,1
+M073,Male,47,East Ugenya,4200,85000,60000,Delinquent,0.56,8
+M074,Female,31,West Ugenya,2500,35000,22000,Active,0.26,3
+M075,Male,34,North Ugenya,2800,45000,30000,Active,0.29,4
+M076,Female,44,Ukwala,4000,80000,55000,Active,0.36,7
+M077,Male,55,East Ugenya,6000,120000,0,Completed,0.03,12
+M078,Female,38,West Ugenya,3200,55000,35000,Active,0.30,6
+M079,Male,29,North Ugenya,2200,30000,24000,Active,0.39,2
+M080,Female,48,Ukwala,4700,90000,70000,Delinquent,0.61,9
+M081,Male,36,East Ugenya,3000,50000,34000,Active,0.30,5
+M082,Female,41,West Ugenya,3600,65000,45000,Active,0.34,7
+M083,Male,52,North Ugenya,5000,100000,0,Completed,0.05,11
+M084,Female,35,Ukwala,3000,50000,28000,Active,0.27,5
+M085,Male,27,East Ugenya,1800,20000,18000,Active,0.42,1
+M086,Female,43,West Ugenya,3800,70000,50000,Active,0.35,7
+M087,Male,46,North Ugenya,4500,90000,65000,Delinquent,0.60,9
+M088,Female,31,Ukwala,2500,35000,22000,Active,0.26,3
+M089,Male,50,East Ugenya,4800,95000,0,Completed,0.06,10
+M090,Female,34,West Ugenya,2800,45000,30000,Active,0.28,4
+M091,Male,39,North Ugenya,3400,60000,42000,Active,0.32,6
+M092,Female,27,Ukwala,1800,25000,23000,Active,0.43,1
+M093,Male,45,East Ugenya,4000,80000,60000,Delinquent,0.58,8
+M094,Female,36,West Ugenya,3100,50000,32000,Active,0.29,5
+M095,Male,31,North Ugenya,2600,40000,28000,Active,0.33,3
+M096,Female,49,Ukwala,4800,95000,0,Completed,0.06,10
+M097,Male,28,East Ugenya,2000,25000,20000,Active,0.40,2
+M098,Female,42,West Ugenya,3800,70000,50000,Active,0.35,7
+M099,Male,35,North Ugenya,3000,50000,33000,Active,0.29,5
+M100,Female,46,Ukwala,4600,90000,68000,Delinquent,0.60,9
